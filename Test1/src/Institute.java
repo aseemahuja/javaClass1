@@ -23,6 +23,7 @@ import ComparePackage.SortById;
 import ComparePackage.SortByName;
 import Helpers.ClassRoomHelper;
 import Helpers.Java8Helper;
+import InterfaceExamplePackage.ExampleInterfaceStart;
 
 public class Institute {
 
@@ -66,6 +67,8 @@ public class Institute {
 		interfaceExample();
 		
 		Java8Helper.execute();
+		
+		ExampleInterfaceStart.execute();
 		
 		
 		
