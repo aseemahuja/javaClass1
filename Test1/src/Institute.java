@@ -14,6 +14,7 @@ import BeanPackage.Audi;
 import BeanPackage.Being;
 import BeanPackage.ClassRoom;
 import BeanPackage.EducationDetails.DegreeTypeEnum;
+import ClassExcericePackage.ClassExerciseStart;
 import BeanPackage.Employee;
 import BeanPackage.Ford;
 import BeanPackage.Person;
@@ -69,6 +70,8 @@ public class Institute {
 		Java8Helper.execute();
 		
 		ExampleInterfaceStart.execute();
+		
+		ClassExerciseStart.execute();
 		
 		
 		
